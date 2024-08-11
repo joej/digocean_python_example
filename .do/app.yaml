@@ -4,5 +4,5 @@ services:
   github:
     branch: main
     deploy_on_push: true
-    repo: joej/digocean_python_example
+    repo: joej/digocean_python_example.git
   name: digocean_python_example
